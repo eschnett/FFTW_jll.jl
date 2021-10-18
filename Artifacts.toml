@@ -1,0 +1,120 @@
+[[FFTW]]
+arch = "aarch64"
+git-tree-sha1 = "5524f5830070a4b529821292e7b835c0a5d17742"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "0b9fdf78519dc00f73f1ee15b4f21520b036c709320e9f92b9392daa67113509"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[FFTW]]
+arch = "aarch64"
+git-tree-sha1 = "820498281c4a24395df3c97a4796c6d0ba92feb4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "1f2d29daaa92aab003d616d0edf2a9137c2d770c6d830a5b35721a56565608cc"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[FFTW]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3d2fe6afd15f811cfc6168aaedae74cf45ebf2ec"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "21eb8d6fb7cb6a5b4c1c274d7a42b1773074793e8c1a3800d16bd70bb9074e86"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[FFTW]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c33ea798453ddb728456f27c794d818cb3ee9631"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "8fac6040af738167a980fa022a21b5bf1124a4208463e71952dfbae784fd5c32"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[FFTW]]
+arch = "i686"
+git-tree-sha1 = "3fe9c7757451060d615c6c89fb294f001af6601a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "815d1f82e580a296da9920b55e62d3842c87d7fbbd53687f68487dbc32a6f25f"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.i686-linux-gnu-libgfortran4.tar.gz"
+[[FFTW]]
+arch = "i686"
+git-tree-sha1 = "5451603a05df5665646001023da7ef8fcf92eab6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "c3ae94eb8d8e4ee0b8c917c8f80c73941f848ad08e1f3d4199c500f7f968f76a"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.i686-linux-gnu-libgfortran5.tar.gz"
+[[FFTW]]
+arch = "powerpc64le"
+git-tree-sha1 = "c91955a4776d79014c219febfbd78ebbbf0e51b8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "f8afc799a9536137f43cb227dc38f9b50adcaaad34775b6aebbed61ddcbb874b"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[FFTW]]
+arch = "powerpc64le"
+git-tree-sha1 = "dbe8ef30e5e0ae54123b4c9fc7c0d47746cf3f87"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "128b7121bb71a042e76cd994b21c953658fdf09ebccce2d9b85bf2fbf473928f"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "26f6abcb87d5defcaafd7a7461161511bb7b35a1"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[FFTW.download]]
+    sha256 = "16614fa804f81889b87e3a653b9abc1f967290cd158efb2e296e406b8f0fd319"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "7ddff53e68388c611d79cdc6df962c3dd41b4f43"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[FFTW.download]]
+    sha256 = "801eb6debeb186ab6ae61920b74a1bb856dc7b28156e14096a569170ca6adff8"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "62c23acf6052c8d61624b04520829f1b7ed94153"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "e689944a5aba6a672a9e1a3fb3d2abee419332a7d5ad8447fac32c1cd30b313e"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "52d812d0e6d42bb3f7ef5fb9c3f02f927e1642a4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "fb4ecb880116be83f3165b31e153b4421cfa84ca1ce5b792cad7d9f38f23a0a6"
+    url = "https://github.com/eschnett/FFTW_jll.jl/releases/download/FFTW-v3.3.10+1/FFTW.v3.3.10.x86_64-linux-gnu-libgfortran5.tar.gz"
